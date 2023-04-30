@@ -1,4 +1,4 @@
-# Hulu-2
+# Hulu-2.0
 
 Hulu website created with nextJS, Tailwind and RestAPIs
 
